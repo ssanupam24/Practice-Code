@@ -1,3 +1,6 @@
+/*Author: Anupam
+*SPOJ PROBLEMS
+*/
 #include <iostream>
 #include <string.h>
 #include <stdlib.h>
