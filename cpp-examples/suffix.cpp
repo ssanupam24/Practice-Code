@@ -65,7 +65,7 @@ void SuffixTrie::search(string pat){
 }
 
 int main(){
-    string txt = "sonu is a good boy";
+    string txt = "s is a good boy";
     SuffixTrie S(txt);         
     cout << "Search for 'a'" << endl;
     S.search("a");                 
