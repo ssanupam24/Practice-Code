@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    string str = "())))))";
+    string str = "(())";
     stack<int> s;
     int counter = 0;
     s.push(-1);
